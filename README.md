@@ -1,2 +1,2 @@
-# Desafio_Reposit-rio_GitHub
-Desafio da criação de um repositório no GitHub para compartilhar o progresso.
+# Desafio DIO: Criação de um Repositório GitHub
+Desafio da DIO para a criação de um repositório no GitHub para compartilhar o progresso.
